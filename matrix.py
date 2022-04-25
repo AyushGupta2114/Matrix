@@ -1,3 +1,5 @@
+# This is a vode to find LCM of first n consective number
+
 class Matrix:
     def __init__(self, List):
         self.List=List
